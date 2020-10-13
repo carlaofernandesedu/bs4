@@ -16,7 +16,7 @@ SETUP DO BOOTSTRAP 4
 REFERENCIA 
 https://getbootstrap.com/docs/4.0/getting-started/introduction/
 Uso css 
-Uso de componentes javascript  Proper e Jquery 
+Uso de componentes javascript  popper e Jquery 
 Proper - pra posicionamento tooltips 
 
 (MODELO DE CDN) PRA IMPORTAR 
@@ -63,3 +63,6 @@ AUTOMATICO CASO HAJA MODIFICACAO
 sass --watch Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/scss:Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/compilercss
 
 sass --watch Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/scss:Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/compilercss
+
+********AULA 03
+ 
