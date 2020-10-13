@@ -1,0 +1,65 @@
+********AULA 01 
+= https://www.youtube.com/watch?v=_0PL45xM__0
+
+O que será passado no curso 
+=NAVBAR
+=CAROUSEL
+=TYPOGRAPHY (seção) count action
+=CARDS
+=JUMBOTRON (NAV TABS) depimentos
+NAV TABS 
+=FORM
+=FOOTER
+
+********AULA 02 
+SETUP DO BOOTSTRAP 4 
+REFERENCIA 
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+Uso css 
+Uso de componentes javascript  Proper e Jquery 
+Proper - pra posicionamento tooltips 
+
+(MODELO DE CDN) PRA IMPORTAR 
+(MODELO DE ARQUIVOS) JA COMPILADOS
+(ARQUIVOS FONTES) COMPILAR SASS
+
+Requisitos de colocar HTML 5 
+<!doctype html>
+<html lang="en">
+  ...
+</html>
+
+Mobile First 
+Bootstrap is developed mobile first, a strategy in which we optimize code 
+for mobile devices first and then scale up components as necessary using CSS media queries. 
+add the responsive viewport meta tag to your <head>.
+Copy
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+O que é box sizing ??
+we switch the global box-sizing value from content-box to border-box.
+
+INSTALACAO DO BOOTSTRAP 
+PRIMEIRO USANDO O NPM 
+npm install bootstrap 
+npm install jquery 
+npm install popper.js 
+
+
+SASS == pre processador == interpreta o css  tem uma serie de facilidades para manutencao do CSS 
+
+DEPOIS A INSTALACAO DO SASS 
+INSTALANDO O RUBY (POREM ESTAVA INSTALADO)
+sudo apt-get update
+sudo sudo apt-get install rubygems
+sudo apt-get install rubygems-integration
+PARA INSTALAR O SASS EM SI
+sudo apt install ruby-sass
+
+COMANDO DE TESTE
+sass -v 
+
+COMANDO PARA COMPILACA E DEIXAR 
+AUTOMATICO CASO HAJA MODIFICACAO
+sass --watch Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/scss:Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/compilercss
+
+sass --watch Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/scss:Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/compilercss
