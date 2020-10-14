@@ -65,4 +65,19 @@ sass --watch Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/scss:Doc
 sass --watch Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/scss:Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/compilercss
 
 ********AULA 03
- 
+ Não entendi o conteudo fluido para usar div container para evitar o procedimento
+
+ Coisas novas de alinhamento 
+ mr-auto alinha direita a lista 
+ ml-auto alinhar a esquerda a lista 
+ Dentro do item em destaque no navbar - colocar direto h1 e mb-0 margin-bottom 0
+ ml-2 mr-4  classes para bs4 para facilitar tratar margin
+ e uso de primary dar nas mudancas das cores do navbar
+ navbar-dark bg-primary por exemplo
+ para fica navbar-fixed-top
+
+ no scss varibles efeito gradiente por padrao desabilitado 
+ $enable-shadows:                              false !default;
+$enable-gradients:                            false !default;
+
+pode colocar nos itens = bg-gradient-primary
