@@ -81,3 +81,12 @@ sass --watch Documentos/2020/github/bs4/rsanchez/node_modules/bootstrap/scss:Doc
 $enable-gradients:                            false !default;
 
 pode colocar nos itens = bg-gradient-primary
+
+**************AULA04 
+tive problemas para montar o carousel com relacao ao uso de imagnes 
+  <img class="d-block img-fluid" src="escudo03.jpeg" alt="Third slide">
+  esse parametros nao entendi porque nao funcionou teve que colocar o d-block e img-fluid
+  Ha problemas com images 
+  para que há um padrão 
+  tem recurso para aparecer o texto dependendo do tamanho
+  d-none d-md-block
